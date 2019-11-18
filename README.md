@@ -1,3 +1,15 @@
+https://tr.reactjs.org/tutorial/tutorial.html sitesindeki örnektir. Sitede belirtilen aşağıdaki ödevler tamamlanmış ve biraz css ile oynanmıştır.
+..Oyun geçmişinde, her hamlenin konumunun “(satır,sütun)” formatına göre görüntülenmesi.
+..Oyun geçmişi listesinde tıklanan liste elemanının, seçili olarak işaretlenmesi.
+..Board’daki karelerin, elle hardcoded olarak kodlanmasının yerine iki for döngüsü kullanılarak Board bileşeninin düzenlenmesi.
+..Bir buton eklenerek, tıklandığında oyun geçmişinin artan veya azalan şekilde sıralanmasının sağlanması.
+..Bir kişi kazandığında, kazanmasına vesile olan 3 karenin renklendirilerek vurgulanması.
+..Eğer hiç kazanan yoksa, berabere mesajının görüntülenmesi.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
